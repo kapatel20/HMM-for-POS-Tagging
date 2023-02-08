@@ -5,7 +5,7 @@
 
 ## Python Modules  -  json, math, copy, sys
 
-## How to Run?  -  Run HW2-Kshitij-Patel.py file
+## How to Run?  -  Run hmm_model.py file and it will generate "viterbi.out" and "greedy.out" files
 
 ## Data?  -  files under data folder
 
