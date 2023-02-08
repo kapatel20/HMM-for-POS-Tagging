@@ -1,5 +1,5 @@
 
-# CSCI 544 Assigment - 2
+# CSCI 544 
 
 ### Python Version  -  3.8.8
 
